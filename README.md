@@ -24,3 +24,9 @@ To get started with any of the projects, clone the repository and navigate to th
 ```bash
 git clone https://github.com/JackTh3Hack/MyJSProjects.git
 cd projects
+```
+
+## Contact
+
+email:
+X: 
