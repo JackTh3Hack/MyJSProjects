@@ -28,5 +28,5 @@ cd projects
 
 ## Contact
 
-email:
-X: 
+email: jackthehack444@gmail.com
+X: @Jackth3Hack
